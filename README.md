@@ -42,6 +42,14 @@ Many patients stop visiting the clinic over time, affecting care continuity and 
 
 ---
 
+## 📊 Interactive Dashboard
+
+Click the image below to explore the live dashboard on Tableau Public:
+
+[![View Dashboard](https://img.shields.io/badge/🔗%20View%20Dashboard%20on%20Tableau%20Public-blue?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/kanish.tyagi/viz/Health_Center_Churn_Analysis/Dashboard1)
+
+---
+
 ## 📌 Future Improvements
 
 - Incorporate ML model for churn prediction
